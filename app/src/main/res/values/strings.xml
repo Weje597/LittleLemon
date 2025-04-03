@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LittleLemon</string>
+    <string name="description">We are a family owned \n
+        Mediterranean restaurant,\n
+        focused on traditional\n
+        recipes served with \n
+        modern twist.
+    </string>
+</resources>
